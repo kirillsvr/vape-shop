@@ -1,4 +1,4 @@
-![Header](https://github.com/kirillsvr/vape-shop/raw/master/assets/presentation.jpg)
+![Header](https://github.com/kirillsvr/marketing-research/raw/master/assets/presentation.jpg)
 
 <br>
 
