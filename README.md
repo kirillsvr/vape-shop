@@ -4,7 +4,7 @@
 
 Website for a wholesale supplier of vaping liquids. This site is using Wordpress.
 
-<br><br>
+<br>
 
 ## Demo
 
